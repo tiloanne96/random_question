@@ -1,0 +1,4 @@
+es:
+  base_exceptions:
+    record_not_found: "Registro no encontrado"
+    unauthorized_user: "Usuario sin autorizacion para realizar esta accion"

@@ -1,0 +1,4 @@
+en:
+  base_exceptions:
+    record_not_found: "Record not found"
+    unauthorized_user: "User is unauthorized to do this action"
